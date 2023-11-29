@@ -7,7 +7,7 @@ about:
   image-width: 15em
   links:
     - text: LinkedIn
-      href: www.linkedin.com/in/laurynhowlett
+      href: https://www.linkedin.com/in/laurynhowlett/
     - text: GitHub
       href: https://github.com/laurynhowlett
     - text: Email
