@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "laurynhowlett.github.io"
+  title: "Lauryn Howlett"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: resume/index2.qmd
+        text: Resume
+      - href: about.qmd
+        text: My Projects
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

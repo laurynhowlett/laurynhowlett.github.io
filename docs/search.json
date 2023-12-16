@@ -1,16 +1,30 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "My Resume\n\\includepdf[pages={-}]{path_to_your_pdf/resume.pdf}"
+  },
+  {
+    "objectID": "resume/index2.html",
+    "href": "resume/index2.html",
+    "title": "Select Resume",
+    "section": "",
+    "text": "Download Resume"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lauryn Howlett",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome!\n\nMy name is Lauryn Howlett and I am a master’s student at Colorado State University. I am dedicated to understanding and finding solutions to sustainability issues in the agricultural sector. I am passionate about helping communities connect to nature and improving conservation efforts.\n\n\n\nEducation\nPSM in Ecosystem Science and Sustainability - Sustainable Food Systems (Expected Fall 2024)\nColorado State University, Fort Collins, Colorado\nBS in Ecosystem Science and Sustainability, Minor in Sustainable Energy (2021)\nColorado State University, Fort Collins, Colorado"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "My Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Poudre Valley Community Farms - Flores del Sol Bird and Soil Monitoring Protocols\nView the story map here\nWorked collaboratively with peers and the stakeholder, Poudre Valley Community Farms, to establish a monitoring protocol to measure the impact of Conservation Agriculture farming practices on soil health, water use, and bird populations over time.\n\n\nCorrelating Trends of Silica Concentrations within a Subalpine Watershed Using Long Term Data\nFor my senior honors thesis, I aimed to determine the SiO2 trends in the Loch Vale watershed (LVWS), Rocky Mountain National Park, from 1982 - 2017, and the direct and indirect relationships between SiO2 concentrations, hydrological patterns, and aquatic algae, especially diatoms. Loch Vale is a good place to explore trends in silica dynamics over time because it is undisturbed with respect to major land uses such as forest harvest or agriculture. Its high elevation location in Rocky Mountain National Park protects it from direct human interference, but influences from climate change and atmospheric deposition may have altered silica dynamics (Oleksy et al. 2020).  Specific questions I asked of the data were: If and how are silica concentrations over the specified timeframe changing? What are the drivers of change for silica concentrations? What is the relationship between discharge and silica? Is there a relationship between silica concentrations and diatoms during the open water season? \n\n\nDesign and Collaborative Implementation of a Pollinator Habitat on a Colorado Front Range Farm\nView the YEAH presentation here\nPollinators play a critical ecosystem role, transferring pollen for wildflowers and crops. We investigated methods and benefits of establishing native pollinator corridors through agriculture by conducting a literature review on a partner farm, soil, and native plant and pollinator species in Colorado. Collaborating with stakeholder farmers and a volunteer restoration organization, we designed an agricultural field optimized to support native pollinators and are implementing our design with the help of a volunteer crew. To maximize our impact, we created community education resources from our literature review. Incorporating pollination corridors will strengthen the local ecosystem and agriculture economy."
   }
 ]

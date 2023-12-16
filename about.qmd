@@ -1,9 +1,22 @@
 ---
-title: "About"
+title: "My Projects"
 ---
 
-About this site
+![](heading.png){fig-align="center"}
 
-```{r}
-1 + 1
-```
+# Poudre Valley Community Farms - Flores del Sol Bird and Soil Monitoring Protocols
+
+[View the story map here](https://arcg.is/1Sfnb00){style="color: green"}
+
+Worked collaboratively with peers and the stakeholder, Poudre Valley Community Farms, to establish a monitoring protocol to measure the impact of Conservation Agriculture farming practices on soil health,
+water use, and bird populations over time.
+
+# **Correlating Trends of Silica Concentrations within a Subalpine Watershed Using Long Term Data**
+
+For my senior honors thesis, I aimed to determine the SiO2 trends in the Loch Vale watershed (LVWS), Rocky Mountain National Park, from 1982 - 2017, and the direct and indirect relationships between SiO2 concentrations, hydrological patterns, and aquatic algae, especially diatoms. Loch Vale is a good place to explore trends in silica dynamics over time because it is undisturbed with respect to major land uses such as forest harvest or agriculture. Its high elevation location in Rocky Mountain National Park protects it from direct human interference, but influences from climate change and atmospheric deposition may have altered silica dynamics (Oleksy et al. 2020).  Specific questions I asked of the data were: If and how are silica concentrations over the specified timeframe changing? What are the drivers of change for silica concentrations? What is the relationship between discharge and silica? Is there a relationship between silica concentrations and diatoms during the open water season? 
+
+# Design and Collaborative Implementation of a Pollinator Habitat on a Colorado Front Range Farm 
+
+[View the YEAH presentation here](https://digitalcommons.mtu.edu/yeah-conference/april2021/all-events/16/){style="color: green"}
+
+Pollinators play a critical ecosystem role, transferring pollen for wildflowers and crops. We investigated methods and benefits of establishing native pollinator corridors through agriculture by conducting a literature review on a partner farm, soil, and native plant and pollinator species in Colorado. Collaborating with stakeholder farmers and a volunteer restoration organization, we designed an agricultural field optimized to support native pollinators and are implementing our design with the help of a volunteer crew. To maximize our impact, we created community education resources from our literature review. Incorporating pollination corridors will strengthen the local ecosystem and agriculture economy.

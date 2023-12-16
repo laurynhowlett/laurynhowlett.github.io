@@ -1,10 +1,11 @@
 ---
 title: "Lauryn Howlett"
-image: Soil_core.JPG
+image: headshot.jpg
+toc: false
 about: 
   template: trestles
-  image-shape: rounded
-  image-width: 15em
+  image-shape: round
+  image-width: 20em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/laurynhowlett/
@@ -14,10 +15,20 @@ about:
       href: mailto:lhowlett@colostate.edu
 ---
 
-This is a Quarto website.
+# Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+------------------------------------------------------------------------
 
-```{r}
-1 + 1
-```
+My name is Lauryn Howlett and I am a master's student at Colorado State University. I am dedicated to understanding and finding solutions to sustainability issues in the agricultural sector. I am passionate about helping communities connect to nature and improving conservation efforts.
+
+------------------------------------------------------------------------
+
+# Education
+
+**PSM in Ecosystem Science and Sustainability - Sustainable Food Systems** (Expected Fall 2024)
+
+Colorado State University, Fort Collins, Colorado
+
+**BS in Ecosystem Science and Sustainability, Minor in Sustainable Energy** (2021)
+
+Colorado State University, Fort Collins, Colorado
