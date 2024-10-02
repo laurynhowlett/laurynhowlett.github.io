@@ -13,6 +13,8 @@ about:
       href: https://github.com/laurynhowlett
     - text: Email
       href: mailto:lhowlett@colostate.edu
+    - text: Resume
+      href: "./resume/Resume_NR_Howlett.pdf"
 ---
 
 # Welcome!

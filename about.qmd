@@ -8,14 +8,13 @@ title: "My Projects"
 
 [View the story map here](https://arcg.is/1Sfnb00){style="color: green"}
 
-Worked collaboratively with peers and the stakeholder, Poudre Valley Community Farms, to establish a monitoring protocol to measure the impact of Conservation Agriculture farming practices on soil health,
-water use, and bird populations over time.
+Worked collaboratively with peers and the stakeholder, Poudre Valley Community Farms, to establish a monitoring protocol to measure the impact of Conservation Agriculture farming practices on soil health, water use, and bird populations over time.
 
 # **Correlating Trends of Silica Concentrations within a Subalpine Watershed Using Long Term Data**
 
 For my senior honors thesis, I aimed to determine the SiO2 trends in the Loch Vale watershed (LVWS), Rocky Mountain National Park, from 1982 - 2017, and the direct and indirect relationships between SiO2 concentrations, hydrological patterns, and aquatic algae, especially diatoms. Loch Vale is a good place to explore trends in silica dynamics over time because it is undisturbed with respect to major land uses such as forest harvest or agriculture. Its high elevation location in Rocky Mountain National Park protects it from direct human interference, but influences from climate change and atmospheric deposition may have altered silica dynamics (Oleksy et al. 2020).  Specific questions I asked of the data were: If and how are silica concentrations over the specified timeframe changing? What are the drivers of change for silica concentrations? What is the relationship between discharge and silica? Is there a relationship between silica concentrations and diatoms during the open water season? 
 
-# Design and Collaborative Implementation of a Pollinator Habitat on a Colorado Front Range Farm 
+# Design and Collaborative Implementation of a Pollinator Habitat on a Colorado Front Range Farm
 
 [View the YEAH presentation here](https://digitalcommons.mtu.edu/yeah-conference/april2021/all-events/16/){style="color: green"}
 
