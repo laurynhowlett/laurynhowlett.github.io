@@ -21,7 +21,9 @@ about:
 
 ------------------------------------------------------------------------
 
-My name is Lauryn Howlett and I am a master's student at Colorado State University. I am dedicated to understanding and finding solutions to sustainability issues in the agricultural sector. I am passionate about helping communities connect to nature and improving conservation efforts.
+As a recent Master\'s graduate from Colorado State University specializing in Sustainable Food Systems and Water Resources, I bring hands-on expertise in R programming, GIS, and sustainable land management. My academic and research experiences have equipped me to analyze complex environmental data, develop practical solutions for land and water stewardship, and contribute to climate resilience initiatives.\
+\
+Growing up in Colorado\'s Rocky Mountains inspired my dedication to natural resource stewardship and conservation. I am passionate about understanding how land use practices influence ecosystem health and sustainability. My goal is to advance conservation efforts by applying data-driven insights to support sustainable development and ecosystem restoration.
 
 ------------------------------------------------------------------------
 
