@@ -1,0 +1,17 @@
+---
+title: "My Resume"
+output:
+  quarto::pdf_document:
+    latex_engine: xelatex
+---
+
+# My Resume
+
+```{r}
+
+
+
+
+```
+
+\\includepdf\[pages={-}\]{path_to_your_pdf/resume.pdf}
