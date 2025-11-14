@@ -14,7 +14,7 @@ about:
     - text: Email
       href: mailto:laurynhowlett@gmail.com
     - text: Resume
-      href: "./resume/Resume_NR_Howlett.pdf"
+      href: "./resume/Resume_NR1_Howlett.pdf"
 ---
 
 # Welcome!
